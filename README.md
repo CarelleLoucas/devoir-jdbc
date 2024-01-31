@@ -5,9 +5,9 @@
 - MySQL
 
 ## Setup
-- git clone the project
+- Clone the project
 - Run the queries.sql file
-- Change username and password in Main.java
+- Adjust credentiels in Main.java
 
 ## Usage
 - Compile with `javac -cp "MySQL ConnectorJ/8.0.25/mysql-connector-java-8.0.25.jar:." Main.java` 
