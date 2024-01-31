@@ -13,4 +13,4 @@
 - Compile with `javac -cp "MySQL ConnectorJ/8.0.25/mysql-connector-java-8.0.25.jar:." Main.java` 
 - Run with `java -cp "MySQL ConnectorJ/8.0.25/mysql-connector-java-8.0.25.jar:." Main`
 
-![Screenshot from 2023-01-30 23-27-31](https://user-images.githubusercontent.com/101930339/215601253-518f7ca7-903d-402b-9f77-6f908f8003d6.png)
+![WhatsApp Image 2024-01-31 at 2 36 00 AM](https://github.com/CarelleLoucas/devoir-jdbc/assets/119422070/c4e6b825-494b-452b-b485-3e101f7c5daa)
